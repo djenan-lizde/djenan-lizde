@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there I'm Đenan Lizde 👋
+
+### I'm 22 years old and currently I'm finishing my faculty studies at Faculty of Information Technology, Mostar.🎓
+
+### Currently employed as a backend developer (.NET Core).
+
+### During my studies I've used different tools and technologies:
+C# dotnet HTML5 CSS3 JavaScript Angular React React Native SQL PostgreSQL MongoDB Git GitHub Azure DevOps Server Visual Studio Visual Studio Code
 
 <!--
 **djenan-lizde/djenan-lizde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
