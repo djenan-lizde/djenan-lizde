@@ -1,8 +1,9 @@
 ### Hi there I'm Đenan Lizde 👋
 
 ### I'm 22 years old and currently I'm finishing my faculty studies at Faculty of Information Technology, Mostar.🎓
+### I love to learn, work in team and I'm trying to improve my skills every day.
 
-### Currently employed as a backend developer (.NET Core). I love to learn, work in team and I'm trying to improve my skills every day. 
+### Currently employed as a backend developer (.NET Core).
 
 ### During my studies I've used different tools and technologies:
 
