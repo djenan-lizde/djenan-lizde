@@ -20,6 +20,7 @@
   <a><img src="https://icon-library.com/images/postgres-icon/postgres-icon-7.jpg" height="30px" width:"30px"/></a>
   <a><img src="https://miro.medium.com/max/400/0*iA9H2aIpVfOIspdf.png" height="30px" width:"30px"/></a>
   <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="30px" width:"30px"/></a>
+  <a><img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" height="30px" width:"30px"/></a>
 </p>
 
 ### Connect with me: 
