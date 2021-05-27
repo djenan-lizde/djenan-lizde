@@ -4,7 +4,7 @@
 ### I love to learn, work in team and I'm trying to improve my skills every day.
 
 ### Currently employed as a backend developer (.NET Core) and learning Angular in my free time.
-in
+
 ### During my studies I've used different tools and technologies:
 
 <p>
